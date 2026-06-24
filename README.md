@@ -9,7 +9,7 @@
     </pre>
           
 
-# SOC MOX 🛠️🛡️
+# SOC MOX 💎
 
 SOC MOX is a PowerShell module and profile  specifically tailored for **Security Operations Center Analysts** to rapidly triage and investigate IOCs and other issues.
 
