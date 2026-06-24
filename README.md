@@ -50,8 +50,13 @@ To load **SOC MOX** automatically every time you start PowerShell, you can confi
    $PROFILE
    ```
 2. Open or create that file, and dot-source the `Microsoft.PowerShell_profile.ps1` file:
+3. In your powershell prifile add a "." followed by the location of the MOXLoader file, example:
 
-3. Restart PowerShell or reload your profile:
+```powershell
+   . "/Users/ME/Tools/MOXloader.ps1"
+   ```
+
+4. Restart PowerShell or reload your profile:
    ```powershell
    . $PROFILE
    ```
