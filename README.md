@@ -13,6 +13,8 @@
 
 SOC MOX is a PowerShell module and profile  specifically tailored for **Security Operations Center Analysts** to rapidly triage and investigate IOCs and other issues.
 
+<img width="648" height="632" alt="image" src="https://github.com/user-attachments/assets/9d9e871c-bade-49a3-80b6-b5bfab22b279" />
+
 ---
 
 ## Features
@@ -25,6 +27,9 @@ SOC MOX is a PowerShell module and profile  specifically tailored for **Security
 - **IP Geolocation (`Get-GeoIP`)**: Retreives geographical details and ISP/ASN routing information for any IP or domain name.
 - **AI Triage Prompt (`New-TriagePrompt`)**: An interactive terminal-based wizard that generates a structured XML threat triage prompt and automatically copies it to the system clipboard for immediate use with LLMs.
 - **Cloud Status (`Get-CloudStatus`)**: Queries the public RSS/JSON status feeds for AWS, Azure, and Google Cloud to report active outages.
+
+<img width="1377" height="568" alt="image" src="https://github.com/user-attachments/assets/0eab3c12-053a-47e0-833f-530e3a65ca0d" />
+
 
 ---
 
