@@ -50,9 +50,7 @@ To load **SOC MOX** automatically every time you start PowerShell, you can confi
    $PROFILE
    ```
 2. Open or create that file, and dot-source the `Microsoft.PowerShell_profile.ps1` file:
-   ```powershell
-   . "/Users/cclement/.gemini/antigravity/scratch/soc-mox/Microsoft.PowerShell_profile.ps1"
-   ```
+
 3. Restart PowerShell or reload your profile:
    ```powershell
    . $PROFILE
